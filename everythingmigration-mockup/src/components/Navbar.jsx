@@ -36,7 +36,7 @@ export default function Navbar() {
         <div className="nav-desktop" style={{ display: "flex", alignItems: "center", gap: 32 }}>
           <a href="#categories" className="nav-link">Guides</a>
           <a href="#articles" className="nav-link">Articles</a>
-          <a href="#immigration" className="nav-link">Immigratio</a>
+          <a href="#immigration" className="nav-link">Immigration</a>
           <button className="btn-primary" style={{ padding: "10px 22px", fontSize: 14 }}>Join Waitlist</button>
         </div>
 
