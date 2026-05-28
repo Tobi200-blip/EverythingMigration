@@ -22,7 +22,7 @@ export default function Hero() {
 
         {/* Subtitle */}
         <p className="hero-subtitle" style={{ fontSize:18,color:"#94A3B8",lineHeight:1.75,maxWidth:540,margin:"0 auto 48px",fontWeight:400 }}>
-          Everything you need to know about Canadian immigration — work permits, permanent residence, study permits and more. Built specifically for Nigerians.
+          Everything you need to know about Canadian immigration — work permits, permanent residence, study permits and more. Built specifically for productivity.
         </p>
 
         {/* CTA */}
