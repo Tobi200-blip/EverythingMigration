@@ -41,7 +41,7 @@ export default function Footer() {
         <div className="footer-bottom" style={{ borderTop:"1px solid #0F172A",paddingTop:24,display:"flex",alignItems:"center",justifyContent:"space-between",flexWrap:"wrap",gap:12 }}>
           <p style={{ fontSize:13,color:"#1E293B" }}>© 2026 EverythingMigration. All rights reserved.</p>
           <span style={{ fontSize:11,color:"#1E293B",background:"#0A0F1C",border:"1px solid #1E293B",padding:"4px 14px",borderRadius:100 }}>
-            Design mockup — mainly for presentation purposes
+            Design mockup — for presentation purposes only
           </span>
         </div>
       </div>
